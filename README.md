@@ -1,6 +1,6 @@
 # INTEL UNNATI PROGRAM 
 # User_Password_protection-at_Rest(on the Disk)
-# Description
+**DESCRIPTION**
 1. Encrypt [AES-256] a user chosen file or directory using a random key a.k.a File Encryption Key.
 2. Store the random key in a file, which has to be protected via user pass phrase.
 3. The user pass phrase as well as the random key cannot be stored in plain form in the text file.
@@ -11,8 +11,7 @@
 
 Hi there! I'm Piyush, form Team - **THE BREACHERS** and this is our Project on Cybersecurity Domain Based on Encryption and Decryption of files or folder on a disk using a Graphical User Interface. Let's dive into the features:
 
-## ***HPJ_CRYP***
-## **Application Features:**
+## **HPJ_CRYP Features:**
 
 * **🔒Password Handling✌️:**
   1. Securely prompts for user password without echoing.
@@ -33,27 +32,50 @@ Hi there! I'm Piyush, form Team - **THE BREACHERS** and this is our Project on C
 
 
 ### **Technologies Used:**
+1. Graphical User Interface
+    **tkinter**
 
-* HTML, CSS, Bootstrap, JavaScript
-* Owl Carousel Library (for Testimonials)
-* jQuery (to support Owl Carousel)
-* AOS Library (for cool fade effects)
-* Fonts: Augustina, Rubik, Dancing Script
-* Bootstrap Icons
+3. Cryptography
+    **pycryptodome**
+       * AES (Advanced Encryption Standard)
+            * AES-256 in **CFB (Cipher Feedback)** mode for encryption.
+       * PBKDF2 (Password-Based Key Derivation Function 2)
+            * derive a cryptographic key from a user-provided **password and a salt**.
+       * HMAC (Hash-based Message Authentication Code) and SHA-256 (Secure Hash Algorithm 256-bit)
+            *  Secure Hashing and Message **Authentication**.
+   
+4. Multi-threading
+    **threading**
+    **queue**
 
-### **Want to see it live? 👀**
+5. File and Directory Management
+    **os(Operating System)**
+    **shutil**
+    **time**
+
+6. Data Handling
+    **json**
+      
+7. Password Management
+    **tkinter.simpledialog**         
+          
+
+### **Want to see complete Installization from github ? 👀**
 
 * Visit: [https://itsvj.me/](https://itsvj.me/)
 * Or, explore the code on GitHub: [https://github.com/itsvijaysingh/My-Portfolio/](https://github.com/itsvijaysingh/My-Portfolio/)
 
-## **Why This Web Developer Portfolio Stands Out**
+## **Why HPJ_CRYP Stands Out**
 
-* **User Experience Focus:**  The dual theme and speed optimizations show I care about delivering a great experience.
-* **Attention to Detail:** Thoughtful font selections and animations add a polished touch. 
-* **Real Projects:**  This isn't just about tech skills, it's about what I can build!  
+* **User-Friendly GUI:**  
+* **Strong Security Practices:** 
+* **Versatility:**
+      * File and Directory Encryption: Supports both single file and entire directory encryption, making it versatile for different user needs.
+* **Performance and Usability**
+* **Clear and Maintainable Code**
 
 ## **Contact**
 
-Feel free to connect with me or leave feedback. I'm always learning and improving! 
+Feel free to connect with me or leave feedback. I'm always learning and improving! THANKYOU !!
 
 > ~ [pkumar8@gitam.in](mailto:pkumar8@gitam.in)
