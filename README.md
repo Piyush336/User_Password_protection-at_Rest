@@ -33,31 +33,31 @@ Hi there! I'm Piyush, form Team - **THE BREACHERS** and this is our Project on C
 
 ### **Technologies Used:**
 1. Graphical User Interface
-    **tkinter**
+    1.**tkinter**
 
-3. Cryptography
-    **pycryptodome**
-       * AES (Advanced Encryption Standard)
+2. Cryptography
+   1. **pycryptodome**
+       1. AES (Advanced Encryption Standard)
             * AES-256 in **CFB (Cipher Feedback)** mode for encryption.
-       * PBKDF2 (Password-Based Key Derivation Function 2)
+       2. PBKDF2 (Password-Based Key Derivation Function 2)
             * derive a cryptographic key from a user-provided **password and a salt**.
-       * HMAC (Hash-based Message Authentication Code) and SHA-256 (Secure Hash Algorithm 256-bit)
+       3. HMAC (Hash-based Message Authentication Code) and SHA-256 (Secure Hash Algorithm 256-bit)
             *  Secure Hashing and Message **Authentication**.
    
-4. Multi-threading
-    **threading**
-    **queue**
+3. Multi-threading
+    1.**threading**
+    2.**queue**
 
-5. File and Directory Management
-    **os(Operating System)**
-    **shutil**
-    **time**
+4. File and Directory Management
+    1.**os(Operating System)**
+    2.**shutil**
+    3.**time**
 
-6. Data Handling
-    **json**
+5. Data Handling
+    1.**json**
       
-7. Password Management
-    **tkinter.simpledialog**         
+6. Password Management
+    1.**tkinter.simpledialog**         
           
 
 ### **Want to see complete Installization from github ? 👀**
@@ -70,7 +70,7 @@ Hi there! I'm Piyush, form Team - **THE BREACHERS** and this is our Project on C
 * **User-Friendly GUI:**  
 * **Strong Security Practices:** 
 * **Versatility:**
-      * File and Directory Encryption: Supports both single file and entire directory encryption, making it versatile for different user needs.
+      1. File and Directory Encryption: Supports both single file and entire directory encryption, making it versatile for different user needs.
 * **Performance and Usability**
 * **Clear and Maintainable Code**
 
