@@ -63,7 +63,7 @@ Hi there! I'm Piyush, form Team - **THE BREACHERS** and this is our Project on C
 ### **Want to see complete Installization from github ? 👀**
 
 * Visit: [https://itsvj.me/](https://itsvj.me/)
-* Or, explore the code on GitHub: [https://github.com/itsvijaysingh/My-Portfolio/](https://github.com/Piyush336/User_Password_protection-at_Rest/tree/main)
+* Or, explore the code on GitHub: [https://github.com/Piyush336/User_Password_protection-at_Rest/tree/main/](https://github.com/Piyush336/User_Password_protection-at_Rest/tree/main)
 
 ## **Why HPJ_CRYP Stands Out**
 
