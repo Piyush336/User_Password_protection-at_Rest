@@ -62,21 +62,21 @@ Hi there! I'm Piyush, form Team - **THE BREACHERS** and this is our Project on C
 
 ### Commands need to be followed before installing the program ###         
 1. **Step1:** To Become the root user/ Main User in any Linux Based Operating System 
-`sudo su`
+```sudo su```
 2. **Step2:** Check whether python is installed in Linux or not if not
-   `apt-get install python` or `apt-get install python3`
+   ```apt-get install python` or `apt-get install python3```
 3. **Step3:** Install pip so that we can download all the python Libraries/Modules
-   `apt-get install pip`
+   ```apt-get install pip```
 4. **Step4:** In order to clone the Repository first we need to install git into the linux
-   `apt install git`
+   ```apt install git```
 5. **Step5:** Command used to clone the Repository from github
-   `git clone https://github.com/Piyush336/User_Password_protection-at_Rest.git`
+   ```git clone https://github.com/Piyush336/User_Password_protection-at_Rest.git```
 6. **Step6:** After clone is completed to can move to that particular directory where Application file is present
-   `cd User_Password_protection-at_Rest`
+   ```cd User_Password_protection-at_Rest```
 7. **Step7:** Install the Libraries "pycryptodome" and "cryptography"
-   `pip ustall pycryptodome`
+   ```pip ustall pycryptodome```
 8. **Step8:** To Run the HPJ_CRYP Application typle the command
-   `python3 script.py` or `python script.py`               
+   ```python3 script.py` or `python script.py```               
 
 ### **Want to see complete Installization from github ? 👀**
 
