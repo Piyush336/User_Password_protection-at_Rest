@@ -68,7 +68,8 @@ Hi there! I'm Piyush, form Team - **THE BREACHERS** and this is our Project on C
 ```
 2. **Step2:** Check whether python is installed in Linux or not if not.
 ```bash
-  apt-get install python` or `apt-get install python3
+  apt-get install python 
+  apt-get install python3
 ```
 3. **Step3:** Install pip so that we can download all the python Libraries/Modules.
 ```bash
@@ -92,8 +93,9 @@ Hi there! I'm Piyush, form Team - **THE BREACHERS** and this is our Project on C
 ```
 8. **Step8:** To Run the HPJ_CRYP Application typle the command.
 ```bash
-  python3 script.py` or `python script.py
-```         
+  python3 script.py
+  python script.py
+```     
 
 ### **Want to see complete Installization from github ? 👀**
 
