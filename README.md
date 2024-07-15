@@ -94,8 +94,11 @@ Hi there! I'm Piyush, form Team - **THE BREACHERS** and this is our Project on C
 8. **Step8:** To Run the HPJ_CRYP Application typle the command.
 ```bash
   python3 script.py
+```
+or 
+```bash
   python script.py
-```     
+```  
 
 ### **Want to see complete Installization from github ? 👀**
 
